@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+result
+chromedriver*
+__pycache__
